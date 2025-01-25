@@ -1,4 +1,4 @@
-# What LLMs to use? A perspective from the DevAI space
+# What LLMs to use? A perspective from the Dev AI space
 
 With how fast things are moving in the DevAI space, a shorthand for the community of developers building software with the help of large language models (LLMs), it can be challenging to figure out which model to use.
 
